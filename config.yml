@@ -11,18 +11,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Projects
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+        # - name: Courses
+        #   url: courses/
+        #   weight: 2
+        # - name: Data
+        #   url: data/
+        #   weight: 3 
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
 
 params:
     description: "Im an enthusiast of anything tech. I've had projects relating to data science, machine learning, and computer vision. Im also interested in the field of computer networking"
@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Cara Rono
-          subtitle: ""Im an enthusiast of anything tech. I've had projects relating to data science, machine learning, and computer vision. Im also interested in the field of computer networking. I recently got hired as a Service Engineer and I'm currently working on my Cisco certifications."
+          subtitle: "Im an enthusiast of anything tech. I've had projects relating to data science, machine learning, and computer vision. Im also interested in the field of computer networking. I recently got hired as a Service Engineer and I'm currently working on my Cisco certifications."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -58,35 +58,35 @@ params:
           buttons:
             - name: Projects
               url: papers/
-            - name: Courses
-              url: courses/
+            # - name: Courses
+            #   url: courses/
             # - name: Data
             #   url: data/
             # - name: Newsletter
             #   url: https://pmichaillat.substack.com
             # - name: Tags
             #   url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Archive
+            #   url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: mailto:caralisingrono@gmail.com
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        # - name: Google Scholar
+        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/ronocara
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: Twitter
+        #   url: https://twitter.com/pmichaillat
 
     assets:
         disableHLJS: true
