@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://ronocara.github.io/" 
+title: Cara Rono
 paginate: 20
 theme: PaperMod
 
@@ -25,9 +25,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "Im an enthusiast of anything tech. I've had projects relating to data science, machine learning, and computer vision. Im also interested in the field of computer networking"
+    author: Cara Rono
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,23 +49,23 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Cara Rono
+          subtitle: ""Im an enthusiast of anything tech. I've had projects relating to data science, machine learning, and computer vision. Im also interested in the field of computer networking. I recently got hired as a Service Engineer and I'm currently working on my Cisco certifications."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Prof. Name
           buttons:
-            - name: Papers
+            - name: Projects
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
+            # - name: Data
+            #   url: data/
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
             - name: Archive
               url: archive/
     socialIcons:
