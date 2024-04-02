@@ -95,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Cara Rono"
       icon: favicon.ico
       iconHeight: 18
 
