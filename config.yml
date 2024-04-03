@@ -58,8 +58,8 @@ params:
           buttons:
             - name: Projects
               url: papers/
-            # - name: Courses
-            #   url: courses/
+            - name: Blog
+              url: blog/
             # - name: Data
             #   url: data/
             # - name: Newsletter
