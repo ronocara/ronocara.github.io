@@ -1,5 +1,5 @@
 baseURL: "https://ronocara.github.io/" 
-title: Cara Ro&#241;o
+title: Cara Rono
 paginate: 20
 theme: PaperMod
 
@@ -26,7 +26,7 @@ menu:
 
 params:
     description: "Im an enthusiast of anything tech. I've had projects relating to data science, machine learning, and computer vision. Im also interested in the field of computer networking"
-    author: Cara Rono
+    author: Cara Ro&#241;o
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
