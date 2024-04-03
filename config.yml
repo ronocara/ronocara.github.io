@@ -70,7 +70,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: CV.pdf
+          url: https://github.com/ronocara/ronocara.github.io/blob/a15d924fc10031af570c12fc2af7d09ae723a496/public/CV.pdf
         - name: Email
           url: mailto:caralisingrono@gmail.com
         # - name: Location
