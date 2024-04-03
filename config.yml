@@ -14,9 +14,9 @@ menu:
         - name: Projects
           url: papers/
           weight: 1
-        # - name: Courses
-        #   url: courses/
-        #   weight: 2
+        - name: Blog
+          url: blog/
+          weight: 2
         # - name: Data
         #   url: data/
         #   weight: 3 
