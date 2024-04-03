@@ -1,12 +1,12 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Motorcycle Helmet Detection using YOLO" 
+date: 2022-9
+tags: [Computer Visions,YOLO,Machine Learning]
+author: Cara Rono
+description: "" 
+summary: "This project implements object detection on motorcyle helmets using an open source model YOLO" 
 cover:
-    image: "paper1.png"
+    image: "project1.png"
     alt: "Image caption"
     relative: false
 editPost:
