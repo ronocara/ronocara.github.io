@@ -49,7 +49,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Cara Rono
+          title: What's up! Im Cara Rono
           subtitle: "Im an enthusiast of anything tech. I've had projects relating to data science, machine learning, and computer vision. Im also interested in the field of computer networking. I recently got hired as a Service Engineer and I'm currently working on my Cisco certifications."
           imageUrl: "picture.jpg"
           imageWidth: 160
