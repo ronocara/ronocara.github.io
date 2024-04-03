@@ -70,7 +70,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: public/cv.pdf
+          url: CV.pdf
         - name: Email
           url: mailto:caralisingrono@gmail.com
         # - name: Location
