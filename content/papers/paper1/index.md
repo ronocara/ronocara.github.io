@@ -36,5 +36,5 @@ The purpose of the project is to automatically detect if motorcycle riders are u
 
 ##### Related material
 + [YOLOv5](https://github.com/ultralytics/yolov5) – YOLOv5 repository
-+ [YOLOv8](https://github.com/ultralytics/ultralytics) – YOLOv8 repository
++ [YOLOv5 Documentation](https://docs.ultralytics.com/yolov5/#connect-and-contribute) - Documentation of YOLOv5 model
 
