@@ -7,37 +7,37 @@ description: ""
 summary: "This project implements object detection on motorcyle helmets using an open source model YOLO" 
 cover:
     image: "project1.png"
-    alt: "Image caption"
+    alt: "Sample Image output"
     relative: false
-editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+--editPost:
+--    URL: "https://doi.org/10.1257/aer.102.4.1721"
+--    Text: "Journal Name"
 
 ---
 
 ---
 
-##### Download
+##### Links
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Code](https://github.com/ronocara/helmet-Detection)
++ [Dataset](https://universe.roboflow.com/cs173/helmets-k12dp)
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Coded in python using object detection models: Yolov5, Yolov7, and DeepSORT. Classified motorcycle riders and helmet types from video input. 
+The purpose of the project is to automatically detect if motorcycle riders are using the correct helmet types from CCTV footage. 
 
 ---
 
-##### Figure X: Figure caption
+<!-- ##### Figure X: Figure caption
 
-![](paper1.png)
+![](paper1.png) -->
 
 ---
 
-##### Citation
+<!-- ##### Citation
 
 Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
@@ -52,6 +52,7 @@ title ={Title},
 volume = {Volume},
 year = {Year}}
 ```
+-->
 
 ---
 
