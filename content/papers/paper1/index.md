@@ -1,7 +1,7 @@
 ---
 title: "Motorcycle Helmet Detection using YOLO" 
 date: 2022-9
-tags: [Computer Visions,YOLO,Machine Learning]
+tags: [Computer Vision,YOLO,Machine Learning]
 author: Cara Rono
 description: "" 
 summary: "This project implements object detection on motorcyle helmets using an open source model YOLO" 
@@ -27,27 +27,11 @@ cover:
 Coded in python using object detection models: Yolov5, Yolov7, and DeepSORT. Classified motorcycle riders and helmet types from video input. 
 The purpose of the project is to automatically detect if motorcycle riders are using the correct helmet types from CCTV footage. 
 
+##### Sample Video Output
+ <br> <br>[(Video Link Here)](https://www.youtube.com/watch?v=rgCLCQqAfls&ab_channel=C.Ro%C3%B1o)
+![img1](https://user-images.githubusercontent.com/57750986/219947890-3ee51a88-d9ba-413e-9aff-cca257701e75.png)
 
-<!-- ##### Figure X: Figure caption
 
-![](paper1.png) -->
-
-<!-- ##### Citation
-
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
-
-```BibTeX
-@article{AAYY,
-author = {Author},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
-```
--->
 
 ##### Related material
 
