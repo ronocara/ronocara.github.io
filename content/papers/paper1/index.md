@@ -28,7 +28,7 @@ Coded in python using object detection models: Yolov5, Yolov7, and DeepSORT. Cla
 The purpose of the project is to automatically detect if motorcycle riders are using the correct helmet types from CCTV footage. 
 
 ##### Sample Video Output
- <br> <br>[(Video Link Here)](https://www.youtube.com/watch?v=rgCLCQqAfls&ab_channel=C.Ro%C3%B1o)
+[(Video Link Here)](https://www.youtube.com/watch?v=rgCLCQqAfls&ab_channel=C.Ro%C3%B1o)
 ![img1](https://user-images.githubusercontent.com/57750986/219947890-3ee51a88-d9ba-413e-9aff-cca257701e75.png)
 
 
