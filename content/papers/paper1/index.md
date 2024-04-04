@@ -15,8 +15,6 @@ cover:
 
 ---
 
----
-
 ##### Links
 
 + [Code](https://github.com/ronocara/helmet-Detection)
@@ -29,13 +27,10 @@ cover:
 Coded in python using object detection models: Yolov5, Yolov7, and DeepSORT. Classified motorcycle riders and helmet types from video input. 
 The purpose of the project is to automatically detect if motorcycle riders are using the correct helmet types from CCTV footage. 
 
----
 
 <!-- ##### Figure X: Figure caption
 
 ![](paper1.png) -->
-
----
 
 <!-- ##### Citation
 
@@ -53,8 +48,6 @@ volume = {Volume},
 year = {Year}}
 ```
 -->
-
----
 
 ##### Related material
 
