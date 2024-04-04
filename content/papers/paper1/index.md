@@ -34,8 +34,6 @@ The purpose of the project is to automatically detect if motorcycle riders are u
 
 
 ##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
++ [YOLOv5](https://github.com/ultralytics/yolov5) – YOLOv5 repository
++ [YOLOv8](https://github.com/ultralytics/ultralytics) – YOLOv8 repository
 
