@@ -1,10 +1,11 @@
 ---
-title: "Paper Title 2" 
-date: 2015-12-01
-tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
-description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "This paper shows other things using other techniques and different data." 
+title: "2023 Inter-University DeepRacer Competition" 
+date: 2023-17-01
+tags: [Reinforcement Learning, AI, AWS]
+author: [Cara Rono]
+description: "Competition for a reinforcement AI model for a small self-driving car " 
+summary: "A competition I joined with two other team members. we trained a reinforcement AI model for a self-driving car using Python using AWS console.
+            Our team of three won 1st runner up out of 20 different teams from different universities." 
 cover:
     image: "paper2.png"
     alt: "Image caption"
