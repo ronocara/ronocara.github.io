@@ -7,12 +7,12 @@ description: "Competition for a reinforcement AI model for a small self-driving 
 summary: "A competition I joined with two other team members. we trained a reinforcement AI model for a self-driving car using Python using AWS console.
             Our team of three won 1st runner up out of 20 different teams from different universities." 
 cover:
-    image: "paper2.png"
+    image: "project2.png.png"
     alt: "Image caption"
     relative: false
-editPost:
+<!-- editPost:
     URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
+    Text: "Other Journal Name" -->
 
 ---
 
